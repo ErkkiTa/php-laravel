@@ -1,4 +1,4 @@
-*Updateb libraried ära
+* Updateb libraried ära
 1. sudo apt update
 
 *Upgradeb need libraried uuema peale
